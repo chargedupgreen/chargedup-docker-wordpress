@@ -1,0 +1,1 @@
+docker push chargedup/wordress-deploy:latest
